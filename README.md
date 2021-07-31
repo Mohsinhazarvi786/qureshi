@@ -1,2 +1,2 @@
 # qureshi
-Qureshi.repo
+Qureshi.repo for git commands demonstration
