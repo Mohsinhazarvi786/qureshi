@@ -1,0 +1,2 @@
+# qureshi
+Qureshi.repo
